@@ -1,0 +1,16 @@
+@media screen and (max-width: 407px) {
+    nav {
+        transform: translateY(-1200px);
+        height: 100vh;
+    }
+    input[type="checkbox"], .mask {
+        visibility: visible;
+    }
+    ul {
+        display: block;
+    }
+    li {
+        margin-top: 50px;
+        font-size: 40px;
+    }
+}
